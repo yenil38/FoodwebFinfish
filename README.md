@@ -1,4 +1,4 @@
-#Structural importance of marine finfish species in the Gulf of California food web
+# Structural importance of marine finfish species in the Gulf of California food web
 
 ## Project overview
 
