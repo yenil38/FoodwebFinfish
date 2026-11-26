@@ -1,18 +1,18 @@
-# FoodwebFinfish
-
-**Structural importance of marine finfish species in the Gulf of California food web**
+#Structural importance of marine finfish species in the Gulf of California food web
 
 ## Project overview
 
-This repository contains the R scripts used to analyze the trophic structure of the Gulf of California food web, with particular emphasis on the structural importance of species classified as *marine finfish* (*escama marina*).
+This repository contains the R scripts used to analyze the trophic structure of the Gulf of California food web, with particular emphasis on the structural importance of species classified as marine finfish (escama marina).
 
 The analyses combine network-level and node-level topological properties, trophic metrics, modularity, and a composite Keystone Index (KSI) to characterize the ecological roles of marine finfish species within the food web.
 
 This project aims to contribute to the understanding of food-web structure and provide information relevant to ecosystem-based fisheries management.
 
+This repository is part of an ongoing research project. The associated scientific manuscript is currently being prepared for submission to an academic journal for peer review in the near future.
+
 ## Abstract
 
-Multispecies marine finfish fisheries in coastal and shelf seas face substantial management hurdles because commercial catches are routinely aggregated into broad taxonomic categories, obscuring species-specific trophic contributions. In this study, we evaluate the structural and topological importance of marine finfish resources in the Gulf of California using complex ecological network analysis. We assembled a high-resolution food web comprising 168 nodes (165 living trophic species across 104 teleost species collapsed into 30 finfish nodes, plus three non-living compartments) and 1,647 feeding interactions. Network complexity was characterized through directed connectance and degree distribution fitting. To capture multidimensional structural importance, we developed a Key Species Index (*KSI*) integrating local connectivity (degree *k*) global centrality (betweenness *btw*), and intra- and inter-modular connectivity. The food web displayed low direct connectance (C=0.058) and an exponential degree distribution, reflecting structural resilience mediated by a majority of moderately connected taxa. While basal crustaceans and zooplankton dominated by total number of interactions (degree), commercially valuable finfish (predominantly Lutjanidae, Epinephelidae, and Carangidae) served as essential module connectors and pathway brokers. Quantile regressions revealed that structural importance significantly intensified with trophic level. These findings provide an objective topological baseline for ecosystem-based fisheries management, suggesting that finfish conservation should account for multi-tiered network roles rather than landing volume alone.
+Multispecies marine finfish fisheries in coastal and shelf seas face substantial management hurdles because commercial catches are routinely aggregated into broad taxonomic categories, obscuring species-specific trophic contributions. In this study, we evaluate the structural and topological importance of marine finfish resources in the Gulf of California using complex ecological network analysis. We assembled a high-resolution food web comprising 168 nodes (165 living trophic species across 104 teleost species collapsed into 30 finfish nodes, plus three non-living compartments) and 1,647 feeding interactions. Network complexity was characterized through directed connectance and degree distribution fitting. To capture multidimensional structural importance, we developed a Key Species Index (KSI) integrating local connectivity (degree k) global centrality (betweenness btw), and intra- and inter-modular connectivity. The food web displayed low direct connectance (C=0.058) and an exponential degree distribution, reflecting structural resilience mediated by a majority of moderately connected taxa. While basal crustaceans and zooplankton dominated by total number of interactions (degree), commercially valuable finfish (predominantly Lutjanidae, Epinephelidae, and Carangidae) served as essential module connectors and pathway brokers. Quantile regressions revealed that structural importance significantly intensified with trophic level. These findings provide an objective topological baseline for ecosystem-based fisheries management, suggesting that finfish conservation should account for multi-tiered network roles rather than landing volume alone.
 
 ## Repository structure
 
@@ -20,6 +20,10 @@ The repository currently contains the following files:
 
 ```text
 FoodwebFinfish/
+│
+├── Data/
+│   ├── Red_GC.csv
+│   └── Spp_list.csv
 │
 ├── Scripts/
 │   ├── 1.DataSave.R
@@ -34,20 +38,16 @@ FoodwebFinfish/
 └── README.md
 ```
 
-The `Data/`, `Results/`, `Figures/`, and `Map/` directories are used by the scripts for input files and generated outputs. They are not included in the current public repository.
+The `Results/`, `Figures/`, and `Map/` directories are used by the scripts for input files and generated outputs. They are not included in the current public repository.
 
 ## Data availability
 
-The input datasets used in this study are not publicly available in this repository while the associated manuscript is undergoing the publication process.
-
-The analyses require the following input files:
+The datasets used in this study are publicly available in the `Data/` directory of this repository:
 
 - `Data/Red_GC.csv`: Predator–prey interaction database, including prey, predator, and reference information.
 - `Data/Spp_list.csv`: Trophic species list containing node identifiers and taxonomic attributes.
 
-These datasets will be provided to the journal editors for evaluation during the manuscript review process, as required.
-
-**Note:** The R scripts are provided to document the analytical workflow. Running the complete analysis requires access to the original input datasets, which are not included in this repository.
+These datasets are provided to support transparency, reproducibility, and independent evaluation of the food-web analyses.
 
 ## Analysis workflow
 
