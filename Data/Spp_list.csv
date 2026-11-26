@@ -1,0 +1,169 @@
+Node,Tax_group,item,Spp,Family,Order,Class,Phylum,Kingdom,List_items
+DIPA,Peces,Serranidae,Diplectrum pacificum,Serranidae,Perciformes,Teleostei,Chordata,Animalia,Diplectrum pacificum
+BROCL,Peces,Brotulidae,Brotula clarkae,Brotulidae,Ophidiiformes,Teleostei,Chordata,Animalia,Brotula clarkae
+PEPLA,Reptiles,Serpiente marina,Pelamis platurus,Elapidae,Squamata,,Chordata,Animalia,Pelamis platurus
+SCOSO,Peces,Scorpaenidae,Scorpaena sonorae ,Scorpaenidae,Perciformes,Teleostei,Chordata,Animalia,Scorpaena sonorae 
+DIPEU,Peces,Serranidae,Diplectrum eumelum,Serranidae,Perciformes,Teleostei,Chordata,Animalia,Diplectrum eumelum
+TOTOA,EscamaMar,Totoaba,Totoaba macdonaldi,Sciaenidae,Perciformes,Teleostei,Chordata,Animalia,Totoaba macdonaldi
+DILAB,Peces,Serranidae,Diplectrum labarum ,Serranidae,Perciformes,Teleostei,Chordata,Animalia,Diplectrum labarum 
+CAROT,Peces,Carangidae,Carangoides otrynter,Carangidae,Carangiformes,Teleostei,Chordata,Animalia,Carangoides otrynter
+SEPER,Peces,Carangidae,Selene peruviana,Carangidae,Carangiformes,Teleostei,Chordata,Animalia,Selene peruviana
+THUNA,Peces,Atunes,Thunnus albacares,Scombridae,Scombriformes,Teleostei,Chordata,Animalia,Thunnus albacares
+ONYCH,Moluscos,Cefalopodos,Onychoteuthis banksii ,Onychoteuthidae,Oegopsida,Cephalopoda,Mollusca,Animalia,Onychoteuthis banksii 
+TRILE,Peces,Trichiuridae,Trichiurus lepturus,Trichiuridae,Scombriformes,Teleostei,Chordata,Animalia,Trichiurus lepturus
+STHEO,Moluscos,Cefalopodos,Sthenoteuthis oualaniensis ,Ommastrephidae,Oegopsida,Cephalopoda,Mollusca,Animalia,Sthenoteuthis oualaniensis 
+SEPSI,Peces,Serranidae,Serranus psittacinus,Serranidae,Perciformes,Teleostei,Chordata,Animalia,Serranus psittacinus
+FICOM,Peces,Fistulariidae,Fistularia commersonii ,Fistulariidae,Syngnathiformes,Teleostei,Chordata,Animalia,Fistularia commersonii 
+JURBP,EscamaMar,Jurel,Caranx melampygus,Carangidae,Carangiformes,Teleostei,Chordata,Animalia,"Caranx melampygus, Caranx sexfasciatus, Seriola rivoliana, Euprepocaranx dorsalis, Seriola peruana, Seriola lalandi"
+SYALA,Peces,Paralichthyidae,Syacium latifrons ,Paralichthyidae,Pleuronectiformes,Teleostei,Chordata,Animalia,Syacium latifrons 
+SYLU,Peces,Synodontidae,Synodus lucioceps ,Synodontidae,Aulopiformes,Teleostei,Chordata,Animalia,Synodus lucioceps 
+SYSCI,Peces,Synodontidae,Synodus scituliceps,Synodontidae,Aulopiformes,Teleostei,Chordata,Animalia,Synodus scituliceps
+CORHY,Peces,Dorado,Coryphaena hippurus,Coryphaenidae,Carangiformes,Teleostei,Chordata,Animalia,Coryphaena hippurus
+LOLIG,Moluscos,Cefalopodos,Lolliguncula,Loliginidae,Myopsida,Cephalopoda ,Mollusca,Animalia,"Lolliguncula, Loligo opalescens, Lolliguncula panamensis"
+CYNOR,Peces,Sciaenidae,Cynoscion reticulatus,Sciaenidae,Perciformes,Teleostei,Chordata,Animalia,Cynoscion reticulatus
+SYOV,Peces,Paralichthyidae,Syacium ovale ,Paralichthyidae,Pleuronectiformes,Teleostei,Chordata,Animalia,Syacium ovale 
+GYMPA,Peces,Morenas,Gymnothorax panamensis ,Muraenidae,Anguilliformes,Teleostei,Chordata,Animalia,Gymnothorax panamensis 
+SIERR,EscamaMar,Sierra,Scomberomorus sierra,Scombridae,Scombriformes,Teleostei,Chordata,Animalia,"Scomberomorus sierra, Scomberomorus concolor, Scomberomorus cavalla, Scomberomorus regalis"
+SPHYE,Peces,Sphyraenidae,Sphyraena ensis,Sphyraenidae,Carangaria incertae sedis,Teleostei,Chordata,Animalia,Sphyraena ensis
+OLIAL,Peces,Carangidae,Oligoplites altus,Carangidae,Carangiformes,Teleostei,Chordata,Animalia,Oligoplites altus
+POLAP,Peces,Polynemidae,Polydactylus approximans,Polynemidae,Carangaria incertae sedis,Teleostei,Chordata,Animalia,Polydactylus approximans
+BONIT,EscamaMar,Bonito,Auxis brachydorax,Scombridae,Scombriformes ,Teleostei,Chordata,Animalia,"Auxis brachydorax, Sarda chiliensis, Sarda orientalis"
+BAQUE,EscamaMar,Baqueta,Hyporthodus acanthistius,Epinephelidae,Perciformes,Teleostei,Chordata,Animalia,"Hyporthodus acanthistius, Hyporthodus niphobles"
+TRISE,Elasmobranquios,Tiburones,Triakis semifasciata,Triakidae,Carcharhiniformes,Elasmobranchii,Chordata,Animalia,Triakis semifasciata
+HUACA,EscamaMar,HuachinangoCar,Lutjanus jordani,Lutjanidae,Perciformes,Teleostei,Chordata,Animalia,"Lutjanus jordani, Lutjanus viridis, Lutjanus aratus, Lutjanus novemfasciatus, Lutjanus argentiventris, Lutjanus guttatus, Hoplopagrus guentherii"
+SCOJA,Peces,Scombridae,Scomber japonicus ,Scombridae,Scombriformes,Teleostei,Chordata,Animalia,Scomber japonicus 
+PLATR,Elasmobranquios,Rayas,Platyrhinoidis triseriata,Platyrhinidae,Torpediniformes,Elasmobranchii,Chordata,Animalia,Platyrhinoidis triseriata
+DOGIG,Moluscos,Cefalopodos,Dosidicus gigas ,Ommastrephidae,Oegopsida,Cephalopoda,Mollusca,Animalia,Dosidicus gigas 
+MERO,EscamaMar,Mero,Dermatolepis dermatolepis,Epinephelidae,Perciformes,Teleostei,Chordata,Animalia,"Dermatolepis dermatolepis, Epinephelus quinquefasciatus, Epinephelus clippertonensis, Epinephelus analogus, Hyporthodus cifuentesi, Mycteroperca xenarcha"
+SEPIA,Moluscos,Cefalopodos,Sepia sp. ,Sepiidae,Sepiida,Cephalopoda,Mollusca,Animalia,Sepia sp.
+CITHA,Peces,Paralichthyidae,Citharichthys gilberti,Paralichthyidae,Pleuronectiformes,Teleostei,Chordata,Animalia,"Citharichthys gilberti, Citharichthys sp. "
+BAYA,EscamaMar,Baya,Mycteroperca jordani,Epinephelidae,Perciformes,Teleostei,Chordata,Animalia,Mycteroperca jordani
+HUACH,EscamaMar,Huacho,Lutjanus peru,Lutjanidae,Perciformes,Teleostei,Chordata,Animalia,Lutjanus peru
+CABCA,EscamaMar,CabrillaCar,Stereolepis gigas,Epinephelidae,Perciformes,Teleostei,Chordata,Animalia,"Stereolepis gigas, Paralabrax auroguttatus, Epinephelus labriformis, Paralabrax loro, Mycteroperca prionura, Cephalopholis panamensis, Paralabrax maculatofasciatus, Paralabrax nebulifer"
+HITE,Peces,Paralichthyidae,Hippoglossina tetrophthalma,Paralichthyidae,Pleuronectiformes,Teleostei,Chordata,Animalia,Hippoglossina tetrophthalma
+LEPRO,Peces,Ophidiidae,Lepophidium prorates,Ophidiidae,Ophidiiformes,Teleostei,Chordata,Animalia,Lepophidium prorates
+TYCRO,Peces,Belonidae,Tylosurus crocodilus ,Belonidae,Beloniformes,Teleostei,Chordata,Animalia,Tylosurus crocodilus 
+ANDEN,Peces,Paralichthyidae,Ancylopsetta dendritica,Paralichthyidae,Pleuronectiformes,Teleostei,Chordata,Animalia,Ancylopsetta dendritica
+SEBRE,Peces,Carangidae,Selene brevoortii,Carangidae,Carangiformes,Teleostei,Chordata,Animalia,Selene brevoortii
+JURCP,EscamaMar,JurelCarPl,Elagatis bipinnulata,Carangidae,Carangiformes,Teleostei,Chordata,Animalia,"Elagatis bipinnulata, Selar crumenophthalmus"
+BARRI,EscamaMar,Barrilete,Katsuwonus pelamis,Scombridae,Scombriformes,Teleostei,Chordata,Animalia,"Katsuwonus pelamis, Auxis eudorax, Euthynnus lineatus"
+GYZE,Peces,Morenas,Gymnomuraena zebra,Muraenidae,Anguilliformes,Teleostei,Chordata,Animalia,Gymnomuraena zebra
+PARAL,Peces,Serranidae,Paralabrax maculatofasciatus,Serranidae,Perciformes,Teleostei,Chordata,Animalia,"Paralabrax maculatofasciatus, Paralabrax auroguttatus, Paralabrax nebulifer"
+PAYAS,EscamaMar,Payaso,Pseudobatos glaucostigma,Rhinobatidae,Rhinopristiformes,Elasmobranchii,Chordata,Animalia,"Pseudobatos glaucostigma, Pseudobatos productus"
+OCTO,Moluscos,Cefalopodos,Octopus ,Octopodidae,Octopoda,Cephalopoda,Mollusca,Animalia,Octopus 
+PRIAL,Peces,Triglidae,Prionotus albirostris,Triglidae,Perciformes,Teleostei,Chordata,Animalia,Prionotus albirostris
+TRASY,Peces,Carangidae,Trachurus symmetricus ,Carangidae,Carangiformes,Teleostei,Chordata,Animalia,Trachurus symmetricus 
+SARDI,EscamaMar,Sardinera,Mycteroperca rosacea,Epinephelidae,Perciformes,Teleostei,Chordata,Animalia,Mycteroperca rosacea
+ALECI,Peces,Carangidae,Alectis ciliaris,Carangidae,Carangiformes,Teleostei,Chordata,Animalia,Alectis ciliaris
+CORCA,EscamaMar,CorvinaCar,Cynoscion parvipinnis,Sciaenidae,Perciformes,Teleostei,Chordata,Animalia,"Cynoscion parvipinnis, Atractoscion nobilis, Cynoscion stolzmanni, Cheilotrema saturnum, Stellifer strabo, Cynoscion albus, Cynoscion xanthulus, Cynoscion othonopterus, Cynoscion squamipinnis, Stellifer scierus"
+STOMA,Crustaceos,Estomatopodos,Stomatopoda,,Stomatopoda,Malacostraca,Arthropoda,Animalia,"Stomatopoda, Meiosquilla dawsoni, Pseudosquilla ciliata, Pseudosquillisma oculata, Squilla mantoidea"
+MERLU,Peces,Merlucciidae,Merluccius,Merlucciidae,Gadiformes,Teleostei,Chordata,Animalia,Merluccius
+ROBAL,EscamaMar,Robalo,Centropomus viridis,Centropomidae,Carangiformes,Teleostei,Chordata,Animalia,"Centropomus viridis, Centropomus nigrescens, Centropomus medius, Centropomus armatus, Centropomus robalito"
+ANISO,Peces,Haemulidae,Anisotremus interruptus ,Haemulidae,Perciformes,Teleostei,Chordata,Animalia,"Anisotremus interruptus, Anisotremus davidsonii"
+PRIST,Peces,Triglidae,Prionotus stephanophrys ,Triglidae,Perciformes,Teleostei,Chordata,Animalia,Prionotus stephanophrys 
+MYCTO,Peces,Myctophidae,Benthosema panamense,Myctophidae,Myctophiformes,Teleostei,Chordata,Animalia,"Benthosema panamense, Hygophum spp., Triphoturus mexicanus"
+HYDRO,InvertMar,Siphonophora,Hydrozoa,,Siphonophora,Hydrozoa,Cnidaria,Animalia,Hydrozoa
+SCOMY,Peces,Scorpaenidae,Scorpaena mystes ,Scorpaenidae,Perciformes,Teleostei,Chordata,Animalia,Scorpaena mystes 
+STREX,Peces,Belonidae,Strongylura exilis ,Belonidae,Beloniformes,Teleostei,Chordata,Animalia,Strongylura exilis 
+APORE,Peces,Apogonidae,Apogon retrosella,Apogonidae,Kurtiformes,Teleostei,Chordata,Animalia,Apogon retrosella
+DIHY,Peces,Diodontidae,Diodon hystrix ,Diodontidae,Tetraodontiformes,Teleostei,Chordata,Animalia,Diodon hystrix 
+HALDI,Peces,Labridae,Halichoeres dispilus ,Labridae,Perciformes,Teleostei,Chordata,Animalia,Halichoeres dispilus 
+CHIHU,EscamaMar,Chihuili,Ariopsis guatemalensis,Ariidae,Siluriformes,Teleostei,Chordata,Animalia,"Ariopsis guatemalensis, Bagre panamensis, Notarius troschelii, Occidentarius platypogon"
+BANDE,EscamaMar,Bandera,Bagre pinnimaculatus,Ariidae,Siluriformes,Teleostei,Chordata,Animalia,Bagre pinnimaculatus
+BELGY,Peces,Triglidae,Bellator gymnostethus ,Triglidae,Perciformes,Teleostei,Chordata,Animalia,Bellator gymnostethus 
+SECOR,Peces,Scorpaenidae,Sebastes cortezi,Scorpaenidae,Perciformes,Teleostei,Chordata,Animalia,Sebastes cortezi
+LEUST,Peces,Bathylagidae,Leuroglossus stilbius,Bathylagidae,Argentiniformes,Teleostei,Chordata,Animalia,Leuroglossus stilbius
+MOJAR,EscamaMar,Mojarra,Eugerres axillaris,Gerreidae,Perciformes,Teleostei,Chordata,Animalia,"Eugerres axillaris, Anisotremus caesius, Zalembius rosaceus, Eucinostomus currani, Eucinostomus dowii, Eucinostomus entomelas, Eucinostomus gracilis, Deckertichthys aureolus, Eugerres lineatus, Diapterus peruvianus, Gerres simillimus"
+PARRO,EscamaMar,PargoRoj,Lutjanus colorado,Lutjanidae,Perciformes,Teleostei,Chordata,Animalia,Lutjanus colorado
+COSER,Peces,Haemulidae,Conodon serrifer,Haemulidae,Perciformes,Teleostei,Chordata,Animalia,Conodon serrifer
+MULLI,Peces,Chivos,Mullidae,Mullidae,Mulliformes,Teleostei,Chordata,Animalia,Mullidae
+DIHOL,Peces,Diodontidae,Diodon holocanthus ,Diodontidae,Tetraodontiformes,Teleostei,Chordata,Animalia,Diodon holocanthus 
+RYBI,Peces,Grammistidae,Rypticus bicolor,Grammistidae,Perciformes,Teleostei,Chordata,Animalia,Rypticus bicolor
+JURCA,EscamaMar,Jurel,Caranx lugubris,Carangidae,Carangiformes,Teleostei,Chordata,Animalia,"Caranx lugubris, Caranx caballus, Caranx caninus, Caranx vinctus, Caranx hippos"
+BERRU,EscamaMar,Berrugata,Umbrina xanti,Sciaenidae,Perciformes,Teleostei,Chordata,Animalia,"Umbrina xanti, Umbrina roncador, Menticirrhus nasus, Menticirrhus undulatus, Menticirrhus panamensis, Umbrina wintersteeni, Umbrina"
+SARGO,Peces,Holocentridae,Sargocentron,Holocentridae,Holocentriformes,Teleostei,Chordata,Animalia,Sargocentron
+CONEJ,EscamaMar,Conejo,Caulolatilus affinis,Latilidae,Perciformes,Teleostei,Chordata,Animalia,"Caulolatilus affinis, Caulolatilus princeps"
+MYLE,Peces,Holocentridae,Myripristis leiognathos ,Holocentridae,Holocentriformes,Teleostei,Chordata,Animalia,Myripristis leiognathos 
+PLEGU,Peces,Pleuronectidae,Pleuronichthys guttulatus ,Pleuronectidae,Pleuronectiformes,Teleostei,Chordata,Animalia,Pleuronichthys guttulatus 
+DOREX,Peces,Syngnathidae,Doryrhamphus excisus,Syngnathidae,Syngnathiformes,Teleostei,Chordata,Animalia,Doryrhamphus excisus
+HAEFL,Peces,Haemulidae,Haemulon flaviguttatum ,Haemulidae,Perciformes,Teleostei,Chordata,Animalia,Haemulon flaviguttatum 
+CHORQ,Peces,Carangidae,Chloroscombrus orqueta,Carangidae,Carangiformes,Teleostei,Chordata,Animalia,Chloroscombrus orqueta
+ORCHA,Peces,Haemulidae,Orthopristis chalceus ,Haemulidae,Perciformes,Teleostei,Chordata,Animalia,Orthopristis chalceus 
+CAMAM,Crustaceos,Camarones,Farfantepenaeus californiensis ,"Penaeidae, Pasiphaeidae, Sicyoniidae, Alpheidae, Cambaridae, Atyidae, Crangonidae, Hippolytidae, Palaemonidae, Processidae, Upogebiidae",Decapoda,Malacostraca,Arthropoda,Animalia,"Farfantepenaeus californiensis, Litopenaeus stylirostris, Pasiphaea sp., Sicyonia sp., Alpheus, Procambarus clarkii, Atyaephyra desmarestii, Atyidae, Crangonidae, Hippolytidae, Palaemonetes pugio, Processidae (Crustaceos), Trachypenaeus pacificus, Trachysalambria, Xiphopenaeus riveti, Penaeus aztecus, Penaeus spp, Penaeus vannamei (Penaeidae), Upogebiidae"
+PARLI,Peces,Paralichthyidae,Paralichthys aestuarius ,Paralichthyidae,Pleuronectiformes,Teleostei,Chordata,Animalia,"Paralichthys aestuarius, Paralichthys woolmani, Paralichthys californicus"
+ZARO,Peces,Embiotocidae,Zalembius rosaceus,Embiotocidae,Perciformes,Teleostei,Chordata,Animalia,Zalembius rosaceus
+HAEAX,Peces,Haemulidae,Haemulopsis axillaris,Haemulidae,Perciformes,Teleostei,Chordata,Animalia,Haemulopsis axillaris
+SCOXY,Peces,Scorpaenidae,Scorpaenodes xyris ,Scorpaenidae,Perciformes,Teleostei,Chordata,Animalia,Scorpaenodes xyris 
+HIPIN,Peces,Syngnathidae,Hippocampus ingens ,Syngnathidae,Syngnathiformes,Teleostei,Chordata,Animalia,Hippocampus ingens 
+ORED,Peces,Haemulidae,Orthopristis reddingi ,Haemulidae,Perciformes,Teleostei,Chordata,Animalia,Orthopristis reddingi 
+OLIRE,Peces,Carangidae,Oligoplites refulgens,Carangidae,Carangiformes,Teleostei,Chordata,Animalia,Oligoplites refulgens
+PROMU,Peces,Anthiadidae,Pronotogrammus multifasciatus ,Anthiadidae,Perciformes,Teleostei,Chordata,Animalia,Pronotogrammus multifasciatus 
+HUACP,EscamaMar,HuachinangoCarPl,Lutjanus inermis,Lutjanidae,Perciformes,Teleostei,Chordata,Animalia,Lutjanus inermis
+CTENO,Ctenophoros,Ctenophoros,Ctenophora,,,,Ctenophora,Animalia,Ctenophora
+XECA,Peces,Haemulidae,Xenistius californiensis,Haemulidae,Perciformes,Teleostei,Chordata,Animalia,Xenistius californiensis
+CORPL,EscamaMar,CorvinaPl,Elattarchus archidium,Sciaenidae,Perciformes,Teleostei,Chordata,Animalia,"Elattarchus archidium, Larimus acclivis, Larimus argenteus, Larimus pacificus"
+BRAQUI,Crustaceos,Cangrejos benticos,Cangrejos,"Calappidae, Cancridae, Domeciidae, Epialtidae, Grapsidae, Ocypodidae, Potamidae, Pseudorhombilidae",Decapoda,Malacostraca,Arthropoda,Animalia,"Cangrejos, Domecia acanthophora, Brachyura, Calappa, Cancer, Garthiope barbadensis,Goniopsis sp., Loxorhynchus grandis, Ocypodidae sp., Potamidae, Pugettia producta, Uca sp."
+CABPL,EscamaMar,CabrillaPl,Hemanthias peruanus,Anthiadidae,Perciformes,Teleostei,Chordata,Animalia,"Hemanthias peruanus, Hemanthias signifer"
+SCYPH,Scyphozoa,Scyphozoa,Scyphozoa,,,Scyphozoa,Cnidaria,Animalia,Scyphozoa
+VINLU,Peces,Phosichthyidae,Vinciguerria lucetia ,Phosichthyidae,Stomiiformes,Teleostei,Chordata,Animalia,Vinciguerria lucetia 
+MYLCA,Elasmobranquios,Rayas,Myliobatis californica,Myliobatidae,Myliobatiformes,Elasmobranchii,Chordata,Animalia,Myliobatis californica
+BATRA,Peces,Batrachoididae,Porichthys analis ,Batrachoididae,Batrachoidiformes,Teleostei,Chordata,Animalia,"Porichthys analis, Porichthys mimeticus, Opsanus beta"
+HALSE,Peces,Labridae,Halichoeres semicinctus ,Labridae,Perciformes,Teleostei,Chordata,Animalia,Halichoeres semicinctus 
+BALPO,Peces,Balistidae,Balistes polylepis ,Balistidae,Tetraodontiformes,Teleostei,Chordata,Animalia,Balistes polylepis 
+CHANO,EscamaMar,Chano,Micropogonias altipinnis,Sciaenidae,Perciformes,Teleostei,Chordata,Animalia,"Micropogonias altipinnis, Micropogonias megalops"
+EXOCO,Peces,Exocoetidae,Cheilopogon californicus,Exocoetidae,Beloniformes,Teleostei,Chordata,Animalia,"Cheilopogon californicus, Exocoetus monocirrhus"
+CABBP,EscamaMar,CabrillaBP,Paralabrax clathratus,Serranidae,Perciformes,Teleostei,Chordata,Animalia,Paralabrax clathratus
+HASEX,Peces,Haemulidae,Haemulopsis sexfasciatum,Haemulidae,Perciformes,Teleostei,Chordata,Animalia,Haemulopsis sexfasciatum
+SUVER,Peces,Balistidae,Sufflamen verres,Balistidae,Tetraodontiformes,Teleostei,Chordata,Animalia,Sufflamen verres
+LANGO,Crustaceos,Langostas,Panulirus inflatus ,Palinuridae,Decapoda,Malacostraca,Arthropoda,Animalia,"Panulirus inflatus, Panulirus interruptus"
+JAIBA,Crustaceos,Jaibas,Callinectes arcuatus ,Portunidae,Decapoda,Malacostraca,Arthropoda,Animalia,"Callinectes arcuatus, Callinectes bellicosus, Portunus xantusi"
+OPHI,InvertMar,Ofiuros,Ophiuroidea,,,Ophiuroidea,Echinodermata,Animalia,Ophiuroidea
+CABRA,Peces,Sparidae,Calamus brachysomus,Sparidae,Eupercaria incertae sedis,Teleostei,Chordata,Animalia,Calamus brachysomus
+STERE,Peces,Pomacentridae,Stegastes rectifraenum ,Pomacentridae,Perciformes,Teleostei,Chordata,Animalia,Stegastes rectifraenum 
+SEAST,InvertMar,Estrella de mar,Asteroidea,,,Asteroidea,Echinodermata,Animalia,Asteroidea
+CHAET,Peces,Chaetodontidae,Forcipiger flavissimus,Chaetodontidae,Acanthuriformes,Teleostei,Chordata,Animalia,"Forcipiger flavissimus, Johnrandallia nigrirostris"
+PRIPU,Peces,Acanthuridae,Prionurus punctatus,Acanthuridae,Acanthuriformes,Teleostei,Chordata,Animalia,Prionurus punctatus
+GOBII,Peces,Gobidos,Gobionellus microdon ,Gobiidae,Gobiiformes,Teleostei,Chordata,Animalia,"Gobionellus microdon, Gillichthys mirabilis"
+CAPUN,Peces,Tetraodontidae,Canthigaster punctatissima ,Tetraodontidae,Tetraodontiformes,Teleostei,Chordata,Animalia,Canthigaster punctatissima 
+PLEPL,Crustaceos,Langosta chaparra,Pleuroncodes planipes,Munididae,Decapoda,Malacostraca,Arthropoda,Animalia,Pleuroncodes planipes
+ATAF,Peces,Atherinopsidae,Atherinops affinis ,Atherinopsidae,Atheriniformes,Teleostei,Chordata,Animalia,Atherinops affinis 
+ANCHO,Peces,Anchoas_anchovetas,Anchoa helleri,Engraulidae,Clupeiformes,Teleostei,Chordata,Animalia,"Anchoa helleri, Anchoa spp., Cetengraulis mysticetus, Engraulis mordax"
+TOZE,Peces,Gobiesocidae,Tomicodon zebra,Gobiesocidae,Gobiesociformes,Teleostei,Chordata,Animalia,Tomicodon zebra
+SPAN,Peces,Tetraodontidae,Sphoeroides annulatus,Tetraodontidae,Tetraodontiformes,Teleostei,Chordata,Animalia,Sphoeroides annulatus
+ETCRO,Peces,Paralichthyidae,Etropus crossotus ,Paralichthyidae,Pleuronectiformes,Teleostei,Chordata,Animalia,Etropus crossotus 
+SCACO,Peces,Labridae,Scarus compressus ,Labridae,Perciformes,Teleostei,Chordata,Animalia,Scarus compressus 
+SCARU,Peces,Labridae,Scarus rubroviolaceus ,Labridae,Perciformes,Teleostei,Chordata,Animalia,Scarus rubroviolaceus 
+ABTRO,Peces,Pomacentridae,Abudefduf troschelii ,Pomacentridae,Perciformes,Teleostei,Chordata,Animalia,Abudefduf troschelii
+AMPHI,Crustaceos,Anfipodos,Amphipoda,"Ampeliscidae, Caprellidae, Gammaridae, Hyalellidae, Hyperiidae, Kamakidae, Oedicerotidae, Photidae, Phoxocephalidae, Unciolidae",Amphipoda,Malacostraca,Arthropoda,Animalia,"Amphipoda, Americhelidium rectipalmum, Acuminodeutopus heteruropus, Amphideutopus oculatus, Caprelidos, Photis brevipes, Rudilemboides stenopropodus, Ampelisca cristata, Rhepoxynius heterocuspidatus, Metaphoxus frequens, Hyperiidae, Gamáridos (anfípodos), Hartmanodes hartmanae, Hyalella azteca"
+CHITO,Moluscos,Quitones,Quitones,,,Polyplacophora ,Mollusca,Animalia,quitones
+TOBO,Peces,Gobiesocidae,Tomicodon boehlkei,Gobiesocidae,Gobiesociformes,Teleostei,Chordata,Animalia,Tomicodon boehlkei
+ZOOPL,Zooplancton,Zooplancton,Zooplancton,"Acartiidae, Bodotriidae, Clausidiidae, Corycaeidae, Cylindroleberididae, Fritillariidae, Metridinidae, Mysidae, Oncaeidae, Pontellidae, Pseudodiaptomidae, Sergestidae, Tachidiidae, Temoridae",,,,,"Other zooplankton, Copepoda, Radiolario, Cladocera, Sergestes sp., Sergia phorca, Euphausiacea, Ostracoda, Chaetognatha, Pteropoda, Acartia spinata, Calanoida, Labidocera aestiva, Labidocera wollastoni, Pleuromamma piseki, Pseudodiaptomus, Temora turbinata, Farranula, Hemicyclops, Oncaea, Euterpina, Harpacticoida, Cumacea, Cyclaspis nubila, Lavas megalopas, Peisos(decapodos), Parasterope, Mysidopsis, Taphromysis bowmani, Huevos de decápodos, Appendicularia, Larvas de Brachyura"
+GASTR,Moluscos,Gasteropodos,Gasteropodos,"Cerithiidae, Fissurellidae, Hydrobiidae, Naticidae","Caenogastropoda, Lepetellida, Littorinimorpha",Gastropoda,Mollusca,Animalia,"Gasteropodos, Bittium impendens, Diodora dysoni, Hydrobiidae, Naticidae"
+LISA,EscamaMar,Lisa,Dajaus monticola,Mugilidae,Mugiliformes,Teleostei,Chordata,Animalia,"Dajaus monticola, Mugil setosus, Chaenomugil proboscideus, Mugil curema, Mugil cephalus, Mugil hospes"
+WORM,Gusanos,Gusanos,Lumbricidae,,Opisthopora,Clitellata,Annelida,Animalia,"Lumbricidae, Oligochaeta"
+ZACOR,Peces,Zanclidae,Zanclus cornutus,Zanclidae,Acanthuriformes,Teleostei,Chordata,Animalia,Zanclus cornutus
+CIRRI,InvertMar,Barnacles,Barnacles,,,Thecostraca,Arthropoda,Animalia,Barnacles
+INSEC,Insecta,Insectos,Carabidae,"Aeshnidae, Baetidae, Carabidae, Chaoboridae, Chironomidae, Corixidae, Corydalidae, Culicidae, Delphacidae, Dolichopodidae, Elmidae, Ephemeridae, Glossosomatidae, Heptageniidae, Hydropsychidae, Hydroptilidae, Leptophlebiidae, Lesticidae, Libellulidae, Limnephilidae, Muscidae, Psephenidae, Pyralidae, Scelionidae, Simuliidae, Siphlonuridae, Stratiomyidae, Tetrigidae",Coleoptera,Hexapoda,Arthropoda,Animalia,"Carabidae, Elmidae, Psephenidae, Chironomidae, Dolichopodidae, Chaoborus sp., Corynoneurinae, Orthocladiinae, Chironomini, Mosquitoes (Culicidae sp.), Muscidae sp., Simuliidae, Stratiomyidae, Baetidae, Ephemera sp (insecto), Heptageniidae, Leptophlebiidae, Siphlonuridae, Corixidae (insectos acuáticos-pulgas de agua), Delphacidae, Scelionidae, Pyralidae sp., Dobsonflies And Fishflies (Corydalidae), Aeshnidae, Calopterygidae, Lestes viridis (insecto-libelula), Libellulidae, Odonata, Tetrigidae, Glossosomatidae, Hydropsychidae, Hydroptilidae, Limnephilidae, Insecta, ciempies"
+CORAL,Corales,Corales,Corals,,,Anthozoa,Cnidaria,Animalia,Corals
+ASCI,InvertMar,Tunicates_ascidians,Ascidiacea,,,Ascidiacea,Chordata,Animalia,Ascidiacea
+SCAPE,Peces,Labridae,Scarus perrico ,Labridae,Perciformes,Teleostei,Chordata,Animalia,Scarus perrico 
+POLYC,Poliquetos,Poliquetos,Polychaeta,Onuphidae,Eunicida,Polychaeta,Annelida,Animalia,"Polychaeta, Mooreonuphis stigmatis"
+SARAR,Peces,Sardinas_arenques,Sardinops sagax,"Alosidae, Clupeidae, Dorosomatidae, Pristigasteridae",Clupeiformes,Teleostei,Chordata,Animalia,"Sardinops sagax, Harengula thrissina, Lile stolifera, Opisthonema libertate, Opisthonema medirastre, Sardinella, Opisthopterus dovii, Brevoortia, Dorosoma petenense (clupeidos)"
+SEACU,InvertMar,Pepino_mar,Holothuroidea,,,Holothuroidea,Echinodermata,Animalia,Holothuroidea
+MEIO,Meiobentos,Meiobenthos,Meiobenthos,,,,,,Meiobenthos
+PORIF,Esponjas_mar,Esponjas_mar,Porifera,,,,Porifera,Animalia,Porifera
+SEAUR,InvertMar,Erizo_mar,Euechinoidea,,,Echinoidea,Echinodermata,Animalia,Euechinoidea
+RONCA,EscamaMar,Roncacho,Rhonciscus branickii,Haemulidae,Perciformes,Teleostei,Chordata,Animalia,"Rhonciscus branickii, Rhencus macracanthus"
+BIVAL,Moluscos,Bivalvos,Bivalvia ,"Cyrenidae, Lyonsiidae, Mytilidae, Pectinidae, Veneridae","Mytilida, Pectinida, Venerida",Bivalvia,Mollusca,Animalia,"Bivalvia, Mytilidae, Caribachlamys ornata, Corbicula, Tivela stultorum, Lyonsia californica"
+BRYOZ,InvertMar,Bryozoa,Bryozoa,,,,Bryozoa,Animalia,Bryozoa
+ISOPO,Crustaceos,Isopodos,Isopoda ,,Isopoda,Malacostraca,Arthropoda,Animalia,Isopoda 
+MICZO,Micro zooplancton,Microzoplancton,Protozoa,"Acanthochiasmidae, Gigartaconidae",,Acantharia,"Radiozoa, Foraminifera ",Chromista,"Protozoa, Foraminifera, Rotifera, Acanthochiasma sp., Acantholithium sp., Acanthometra sp., Acanthometron (Astrolithium) astraeforme, Gigartacon sp., Phyllostaurus sp."
+MACAL,Macroalgas,Macroalgas,Cladophora sp. ,"Chaetophoraceae, Cladophoraceae, Rhodomelaceae, Sargassaceae, Trentepohliaceae, Ulvaceae","Ceramiales, Chaetophorales, Cladophorales, Fucales, Trentepohliales, Ulvales","Chlorophyceae, Florideophyceae, Phaeophyceae, Ulvophyceae","Chlorophyta, Ochrophyta, Rhodophyta","Chromista, Plantae","Cladophora sp., Ulvaceae, Chlorophyta, Rhodophyta, Sargassum sinicola, Sargassum sp., Phaeophyceae, Other macroalgae, Enteromorpha sp., Trentepohliaceae, Rhodomelaceae"
+PLATE,Plantas,Suculenta,Salicornia,"Amaranthaceae, Fabaceae","Caryophyllales, Fabales",Magnoliopsida,Tracheophyta,Plantae,"Salicornia, Fabaceae, Embryophyta"
+CALCA,Algas_calc,Algas_calc,Calcareous algae,,,,,,Calcareous algae
+PLAAC,Plantas,Plantas_acuat,Podostemaceae,Podostemaceae,Malpighiales,Magnoliopsida,Tracheophyta,Plantae,Podostemaceae
+SEAGR,Pastos marinos,Pastos_marinos,Ruppia maritima,"Ruppiaceae, Zosteraceae",Alismatales,Magnoliopsida,Tracheophyta,Plantae,"Ruppia maritima, Zostera marina, Other seagrasses, Phyllospadix torreyi"
+FITOP,Fitoplancton,Fitoplancton,Bidulphia sp.,"Coscinodiscaceae, Nostocaceae, Oscillatoriaceae, Rhizosoleniaceae, Skeletonemaceae","Coscinodiscales, Nostocales, Oscillatoriales, Pennales, Rhizosoleniales, Thalassiosirales","Bacillariophyceae, Coscinodiscophyceae, Cyanophyceae","Cyanobacteria,Heterokontophyta, Ochrophyta","Bacteria, Chromista","Bidulphia sp., Chaetoceros sp., Cocinodiscus sp., Navicula sp., Rhizosolenia sp., Skeletonema sp., Other diatoms, Other phytoplankton, Cyanobacteria, Ceratium sp., Triposolenia sp., Peridinium sp., Other dinoflagellates, Nostocaceae, Oscillatoria, Coscinodiscophyceae, Bacillariophyceae, Pennate diatoms"
+DETRI,Non-livingMatter,Non-livingMatter,Detrito,,,,,,Detrito
+MOD,Non-livingMatter,Non-livingMatter,Matt_Org_Dis,,,,,,Materia organica disuelta
+SAND,Non-livingMatter,Non-livingMatter,Arena,,,,,,Arena
